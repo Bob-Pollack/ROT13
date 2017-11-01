@@ -1,0 +1,6 @@
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\bin\Debug\ROT13.exe.config
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\bin\Debug\ROT13.exe
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\bin\Debug\ROT13.pdb
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\obj\Debug\ROT13.csprojResolveAssemblyReference.cache
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\obj\Debug\ROT13.exe
+C:\Users\x1372\Desktop\ROT13\ROT13\ROT13\obj\Debug\ROT13.pdb
